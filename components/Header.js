@@ -56,7 +56,7 @@ function Header({ placeholder }) {
         <Image
           src="https://links.papareact.com/qd3"
           className="object-contain"
-          objectPosition="left"
+          objectposition="left"
           width={100}
           height={40}
         />
